@@ -1,0 +1,300 @@
+Items;Nombre del Activo;Marca;Modelo;Tipo de Activo;Sub Tipo de Activo;Ambiente;Confidencialidad;Integridad;Disponibilidad;Media;Nivel de Purdue;Planta;Ubicacion Geografica;Latitud;Longitud
+1;PLCJU01;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+2;PLCJU02;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+3;PLCJU03;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+4;PLCJU04;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+5;PLCJU05;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+6;PLCJU06;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+7;PLCJU07;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+8;PLCJU08;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+9;PLCJU09;SIEMENS;SIMATIC S7-200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+10;PLCJU010;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+11;PLCJU011;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+12;PLCJU012;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+13;PLCJU013;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+14;PLCJU014;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+15;PLCJU015;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+16;PLCJU016;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+17;PLCJU017;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+18;PLCJU018;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+19;PLCJU019;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+20;PLCJU020;SIEMENS;SIMATIC S7-400;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+21;PLCJU021;SIEMENS;SIMATIC S7-1200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+22;PLCJU022;SIEMENS;SIMATIC S7-1200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+23;PLCJU023;SIEMENS;SIMATIC S7-1200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+24;PLCJU024;SIEMENS;SIMATIC S7-1200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+25;PLCJU025;SIEMENS;SIMATIC S7-1200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+26;PLCJU026;SIEMENS;SIMATIC S7-1200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+27;PLCJU027;SIEMENS;SIMATIC S7-1200;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+28;PLCJU028;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+29;PLCJU029;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+30;PLCJU030;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+31;PLCJU031;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+32;PLCJU032;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+33;PLCJU033;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+34;PLCJU034;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+35;PLCJU035;SIEMENS;S7-1500-F ;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+36;PLCCAT001;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+37;PLCCAT002;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+38;PLCCAT003;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+39;PLCCAT004;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+40;PLCCAT005;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+41;PLCCAT006;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+42;PLCCAT007;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+43;PLCCOR01;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+44;PLCCOR02;ROCKWELL;CompactLogix 5480;Hardware;PLC;Produccion;1;2;2;1,66666666666667;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+45;PLCCOR03;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+46;PLCCOR04;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+47;PLCCOR05;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+48;PLCCOR06;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+49;PLCCOR07;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+50;PLCCOR08;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+51;PLCCOR09;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+52;PLCCOR010;ROCKWELL;Guardlogix 1756;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+53;PLCCHU01;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+54;PLCCHU02;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+55;PLCCHU03;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+56;PLCCHU04;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+57;PLCCHU05;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+58;PLCCHU06;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+59;PLCCHU07;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+60;PLCCHU08;ABB;AC500 ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+61;PLCCHU09;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+62;PLCCHU010;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+63;PLCCHU011;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+64;PLCCHU012;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+65;PLCCHU013;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+66;PLCCHU014;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+67;PLCCHU015;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+68;PLCCHU016;ABB;AC500-S;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+69;SCADCHU01;ABB; Symphony Plus;Software;SCADA;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+70;SCADCHU02;ABB; Symphony Plus;Software;SCADA;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+71;SCADCHU03;ABB; Symphony Plus;Software;SCADA;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+72;SCADCHU04;ABB; Symphony Plus;Software;SCADA;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+71;SCADCAT01;HONEYWELL;EXPERION;Software;SCADA;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+72;SCADCHU05;HONEYWELL;EXPERION;Software;SCADA;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+73;SCADJU01;HONEYWELL;EXPERION;Software;SCADA;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+74;SCADCOR01;HONEYWELL;EXPERION;Software;SCADA;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+74;PLCCAT008;HONEYWELL;ControlEdge HC900;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+73;PLCCAT009;HONEYWELL;ControlEdge HC900;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+74;PLCCAT0010;HONEYWELL;ControlEdge HC900;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+75;PLCCAT0011;HONEYWELL;ControlEdge HC900;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+76;SCADCHU06;SIEMENS;WINCC;Software;SCADA;Produccion;2;3;3;2,66666666666667;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+77;SCADCHU07;SIEMENS;WINCC;Software;SCADA;Produccion;2;3;3;2,66666666666667;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+78;SCADCAT02;SIEMENS;WINCC;Software;SCADA;Produccion;2;3;3;2,66666666666667;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+79;SCADCAT03;SIEMENS;WINCC;Software;SCADA;Produccion;2;3;3;2,66666666666667;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+80;SCADJU02;SIEMENS;WINCC;Software;SCADA;Produccion;2;3;3;2,66666666666667;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+81;SCADJU03;SIEMENS;WINCC;Software;SCADA;Produccion;2;3;3;2,66666666666667;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+82;PLCJU036;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+83;PLCJU037;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+84;PLCJU038;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+85;PLCJU039;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+86;PLCJU040;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+87;PLCJU041;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+88;SCADJU04;MITSUBISHI EECTRIC;MC Works64;Software;SCADA;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+89;SCADCOR02;OMRON;Indusoft;Software;SCADA;Produccion;2;3;3;2,66666666666667;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+90;PLCCOR011;OMRON;CP1L;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+91;PLCCOR012;OMRON;CP1L;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+92;PLCCOR013;OMRON;CP1L;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+93;PLCCOR014;OMRON;CP1L;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+94;PLCCOR015;OMRON;CP1L;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+95;PLCCOR016;OMRON;CP1L;Hardware;PLC;Produccion;1;2;3;2;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+96;PLCCOR017;OMRON;NX-SL3;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+97;PLCCOR018;OMRON;NX-SL3;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+98;PLCCOR019;OMRON;NX-SL3;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+99;PLCCOR020;OMRON;NX-SL3;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+100;PLCCOR021;OMRON;NX-SL3;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+101;PLCCOR022;OMRON;NX-SL3;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+102;PLCCOR023;OMRON;NX-SL3;Hardware;PLC;Safety;3;3;3;3;Nivel 1 (control);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+103;SENSTMPCOR01;Vishay;SMD 0603;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+104;SENSTMPCOR02;Vishay;SMD 0603;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+105;SENSTMPCOR03;Vishay;SMD 0603;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+106;SENSTMPCOR04;Vishay;SMD 0603;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+107;SENSPRECOR01;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+108;SENSPRECOR02;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+109;SENSPRECOR03;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+110;SENSPRECOR04;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+111;SENSPRECOR05;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+112;SENSHUCOR01;VAISALA;Serie HMT330 ;Hardware;Sensor;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+113;SENSHUCOR02;VAISALA;Serie HMT330 ;Hardware;Sensor;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+114;SENSHUCOR03;VAISALA;Serie HMT330 ;Hardware;Sensor;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+115;SENSHUCOR04;VAISALA;Serie HMT330 ;Hardware;Sensor;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+116;ACTELECCOR01;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+117;ACTELECCOR02;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+118;ACTELECCOR03;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+119;ACTELECCOR04;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+120;ACTNEUCOR01;Emerson;Cremallera y pi��n;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+121;ACTNEUCOR02;Emerson;Cremallera y pi��n;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+122;ACTNEUCOR03;Emerson;Cremallera y pi��n;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+123;ACTNEUCOR04;Emerson;Cremallera y pi��n;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+124;SENSTMPJU01;Vishay;SMD 0603;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+125;SENSTMPJU02;Vishay;SMD 0603;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+126;SENSTMPJU03;Vishay;SMD 0603;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+127;SENSTMPJU04;Vishay;SMD 0603;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+128;SENSPREJU01;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+129;SENSPREJU02;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+130;SENSPREJU03;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+131;SENSPREJU04;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+132;SENSPREJU05;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+133;SENSHUJU01;VAISALA;Serie HMT330 ;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+134;SENSHUJU02;VAISALA;Serie HMT330 ;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+135;SENSHUJU03;VAISALA;Serie HMT330 ;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+136;SENSHUJU04;VAISALA;Serie HMT330 ;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+137;ACTELECCOR05;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+138;ACTELECCOR06;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+139;ACTELECCOR07;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+140;ACTELECCOR08;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+141;ACTNEUCOR05;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+142;ACTNEUCOR06;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+143;ACTNEUCOR07;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+144;ACTNEUCOR08;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+145;FWCOR01;Juniper;SRX550 ;Hardware;Firewall;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+146;FWCOR02;Juniper;SRX551;Hardware;Firewall;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+147;FW CHU01;Juniper;SRX552;Hardware;Firewall;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+148;FW CHU01;Hirschmann Tofino;EAGLE20-0400;Hardware;Firewall;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+149;FWCAT01;Hirschmann Tofino;EAGLE20-0401;Hardware;Firewall;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+150;FWJU01;Hirschmann Tofino;EAGLE20-0402;Hardware;Firewall;Produccion;3;3;3;3;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+151;ACTNEUCOR09;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+152;ACTNEUCOR10;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+153;ACTNEUCOR11;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+154;ACTNEUCOR12;Emerson;Cremallera y pi��n;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+155;SENSPRECAT01;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+156;SENSPRECAT02;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+157;SENSPRECAT03;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+158;SENSPRECAT04;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+159;SENSPRECAT05;Epman;150 psi;Hardware;Sensor;Produccion;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+160;SENSPRECAT06;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+161;SENSPRECAT07;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+162;SENSPRECAT08;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+163;SENSPRECAT09;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+164;SENSPRECAT10;Epman;150 psi;Hardware;Sensor;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+165;ACTELECHU01;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+166;ACTELECHU02;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+167;ACTELECHU03;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+168;ACTELECHU04;Emerson;M2CP ;Hardware;Actuador;Produccion;1;2;3;2;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+169;ACTELECHU05;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+170;ACTELECHU06;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+171;ACTELECHU07;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+172;ACTELECHU08;Emerson;M2CP ;Hardware;Actuador;Safety;3;3;3;3;Nivel 0 (campo);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+173;SWCHU01;Cisco;IE2000;Hardware;Switch;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+174;SWCAT01;Cisco;IE2000;Hardware;Switch;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+175;SWJU01;Cisco;IE2000;Hardware;Switch;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+176;SWCOR01;Cisco;IE2000;Hardware;Switch;Produccion;2;2;3;2,33333333333333;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+177;SWCAP01;Cisco;IE2000;Hardware;Switch;Stock;0;0;0;0;nivel 2 (supervision);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+178;PLCCAP01;SIEMENS;SIMATIC S7-200;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+179;PLCCAP02;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+180;PLCCAP03;ABB;AC500 ;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+181;PLCCAP04;ABB;AC500-S;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+182;PLCCAP05;SIEMENS;S7-1500-F ;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+183;SWCAP02;Cisco;IE2000;Hardware;Switch;Stock;0;0;0;0;nivel 2 (supervision);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+184;PLCCAP06;SIEMENS;SIMATIC S7-200;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+185;PLCCAP07;MITSUBISHI EECTRIC;FX3U ;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+186;PLCCAP08;ABB;AC500 ;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+187;PLCCAP09;ABB;AC500-S;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+188;PLCCAP10;SIEMENS;S7-1500-F ;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+189;PLCCAP11;OMRON;CP1L;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+190;PLCCAP12;OMRON;NX-SL3;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+191;PLCCAP13;ROCKWELL;CompactLogix 5480;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+192;PLCCAP14;ROCKWELL;Guardlogix 1756;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+193;PLCCAP15;ROCKWELL;Guardlogix 1756;Hardware;PLC;Stock;0;0;0;0;Nivel 1 (control);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+194;SENSPRECAP01;Epman;150 psi;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+195;SENSPRECAP02;Epman;150 psi;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+196;SENSHUCAP01;VAISALA;Serie HMT330 ;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+197;SENSHUCAP02;VAISALA;Serie HMT330 ;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+198;SENSHUCAP03;VAISALA;Serie HMT330 ;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+199;SENSHUCAP04;VAISALA;Serie HMT330 ;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+200;ACTELECCAP01;Emerson;M2CP ;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+201;ACTELECCAP02;Emerson;M2CP ;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+202;ACTELECCAP03;Emerson;M2CP ;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+203;ACTELECCAP04;Emerson;M2CP ;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+204;ACTNEUCAP01;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+205;ACTNEUCAP02;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+206;ACTNEUCAP03;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+207;ACTNEUCAP04;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+208;SENSTMPCAP01;Vishay;SMD 0603;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+209;SENSTMPCAP02;Vishay;SMD 0603;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+210;SENSTMPCAP03;Vishay;SMD 0603;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+211;SENSTMPCAP04;Vishay;SMD 0603;Hardware;Sensor;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+212;PCCHU001;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+213;PCCAT001;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+214;PCJU001;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+215;PCCOR001;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+216;PCCHU002;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+217;PCCAT004;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+218;PCJU002;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+219;PCCOR002;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+220;PCCHU003;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+221;PCCAT003;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+222;PCJU003;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+223;PCCOR003;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+224;PCCHU004;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+225;PCCAT001;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+226;PCJU004;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;3;2;1;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+227;PCCOR004;DELL;755/760 Core 2 Duo;Hardware;PC Estacion de Ingenieria;Produccion;1;2;3;0;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+228;HMIJU01;SIEMENS;SIMATIC HMI TP700 Comfort;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+229;HMIJU02;SIEMENS;SIMATIC HMI TP700 Comfort;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+230;HMIJU03;SIEMENS;SIMATIC HMI TP700 Comfort;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+231;HMIJU04;SIEMENS;SIMATIC HMI TP700 Comfort;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+232;HMICAT01;ROCKWELL;PanelView 5000;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+233;HMICAT02;ROCKWELL;PanelView 5000;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+234;HMIJU07;OMRON;NB10W-TW01B;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+235;HMIJU08;OMRON;NB10W-TW01B;Hardware;HMI;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+236;HMIJU09;ABB;CP600;Hardware;HMI;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+237;HMIJU010;ABB;CP600;Hardware;HMI;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+238;HMIJU;ABB;CP600;Hardware;HMI;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+239;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+240;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+241;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+242;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+243;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+244;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+245;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+246;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+247;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+248;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+249;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+250;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+251;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+252;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+253;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+254;Antivirus;Trellix;5.6;Software;Antivirus;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+255;HMIJU04;MITSUBISHI EECTRIC;GOT2000;Hardware;HMI;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+256;HMIJU04;MITSUBISHI EECTRIC;GOT2000;Hardware;HMI;Produccion;1;2;3;2;nivel 2 (supervision);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+257;HMICAT03;HONEYWELL;WEB-HMI10/CF;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+258;HMICAT04;HONEYWELL;WEB-HMI10/CF;Hardware;HMI;Produccion;1;2;2;1,66666666666667;nivel 2 (supervision);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+259;IMPCHU01;LEXMARK;Serie X950;Hardware;Impresora;Produccion;1;1;1;1;nivel 3 (operaci�n);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+260;IMPCAT01;LEXMARK;Serie X950;Hardware;Impresora;Produccion;1;1;1;1;nivel 3 (operaci�n);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+261;IMPJU01;LEXMARK;Serie X950;Hardware;Impresora;Produccion;1;1;1;1;nivel 3 (operaci�n);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+262;IMPCOR01;LEXMARK;Serie X950;Hardware;Impresora;Produccion;1;1;1;1;nivel 3 (operaci�n);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+263;SERVCHU01B;DELL;R730xd;Hardware;Servidor de Backups;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+264;SERVCAT01B;DELL;R730xd;Hardware;Servidor de Backups;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+265;SERVJU01B;DELL;R730xd;Hardware;Servidor de Backups;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+266;SERVCOR01B;DELL;R730xd;Hardware;Servidor de Backups;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+267;SQL Server;MICROSOFT;16.0.1000.6;Software;Base de datos;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+268;SQL Server;MICROSOFT;16.0.1000.6;Software;Base de datos;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+269;SQL Server;MICROSOFT;16.0.1000.6;Software;Base de datos;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+270;SQL Server;MICROSOFT;16.0.1000.6;Software;Base de datos;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+271;Windows Server 2019;MICROSOFT;Standard;Software;Sistema Operativo;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+272;Windows Server 2019;MICROSOFT;Standard;Software;Sistema Operativo;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+273;Windows Server 2019;MICROSOFT;Standard;Software;Sistema Operativo;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+274;Windows Server 2019;MICROSOFT;Standard;Software;Sistema Operativo;Produccion;3;3;2;2,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+275;NOTCHU01;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Produccion;3;2;1;2;nivel 3 (operaci�n);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+276;NOTCAT01;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Produccion;3;2;1;2;nivel 3 (operaci�n);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+277;NOTBJU01;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Produccion;3;2;1;2;nivel 3 (operaci�n);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+278;NOTBCOR01;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Produccion;3;2;1;2;nivel 3 (operaci�n);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+279;SERVCHU01S;DELL;R730;Hardware;Servidor de S3;Produccion;2;1;3;2;nivel 3.5 (DMZ);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+280;SERVCAT01S;DELL;R730;Hardware;Servidor de S3;Produccion;2;1;3;2;nivel 3.5 (DMZ);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+281;SERVJU01S;DELL;R730;Hardware;Servidor de S3;Produccion;2;1;3;2;nivel 3.5 (DMZ);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+282;SERVCOR01S;DELL;R730;Hardware;Servidor de S3;Produccion;2;1;3;2;nivel 3.5 (DMZ);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+283;SERVCHU01H;DELL;R730;Hardware;Historizador;Produccion;2;2;1;1,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 1;Chubut;-42.7692;-65.03851
+284;SERVCAT01H;DELL;R730;Hardware;Historizador;Produccion;2;2;1;1,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 2;Catamarca;-28.46957;-65.78524
+285;SERVJU01H;DELL;R730;Hardware;Historizador;Produccion;2;2;1;1,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 3;Jujuy;-24.19457;-65.29712
+286;SERVCOR01H;DELL;R730;Hardware;Historizador;Produccion;2;2;1;1,66666666666667;nivel 3 (operaci�n);Linea de ensamblaje 4;Cordoba;-31.4135;-64.18105
+287;ACTNEUCAP05;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+288;ACTNEUCAP06;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+289;ACTNEUCAP07;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+290;ACTNEUCAP08;Emerson;Cremallera y pi��n;Hardware;Actuador;Stock;0;0;0;0;Nivel 0 (campo);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+291;NOTBCAP01;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Stock;0;0;0;0;nivel 3 (operaci�n);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+292;NOTBCAP02;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Stock;0;0;0;0;nivel 3 (operaci�n);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+293;NOTBCAP03;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Stock;0;0;0;0;nivel 3 (operaci�n);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723
+294;NOTBCAP04;DELL;Pavilion Business TPN-Q245;Hardware;Laptop;Stock;0;0;0;0;nivel 3 (operaci�n);Disponible Casa Matriz;Capital Federal Bs As;-34.61315;-58.37723

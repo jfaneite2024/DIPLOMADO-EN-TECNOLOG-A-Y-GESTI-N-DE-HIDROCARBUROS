@@ -1,0 +1,143 @@
+---
+title: "PROYECTO_FINAL_14"
+author: "JUAN FANEITE"
+date: "2024-04-24"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+# Cargar las librerías necesarias
+library(tidyverse)
+library(cluster)
+library(factoextra)
+library(ggplot2)
+library(maps)
+library(sf)
+library(leaflet)
+library(readr)
+library(readxl)
+library(stats)
+library(orloca)
+library(leaflet)
+library(leaflet.extras)
+library(dplyr)
+
+
+
+```
+
+
+```{r}
+
+# PASO 1. Leer el conjunto de datos
+#inventario <- read.csv('D:/UNPA_3/MODULO_III/TF4/PROYECTO_FINAL/INVENTARIO_EJERCICIO6.csv')
+
+inventario <- read_delim("~/UNPA_3/MODULO_III/TF4/PROYECTO_FINAL/INVENTARIO_EJERCICIO6.csv", 
+    delim = ";", escape_double = FALSE, col_types = cols(Confidencialidad = col_number(), 
+        Integridad = col_number(), Disponibilidad = col_number(), 
+        Media = col_number(), Latitud = col_number(), 
+        Longitud = col_number()), trim_ws = TRUE)
+
+
+puntos <- data.frame(inventario)
+
+```
+
+```{r}
+
+# PASO 2. Realizar clustering con k-means
+set.seed(123) # Para reproducibilidad
+kmeans_result <- kmeans(puntos[, c('Latitud', 'Longitud')], centers = 4)
+
+```
+
+
+```{r}
+
+# PASO 3. Añadir la clasificación de clusters al inventario
+inventario$cluster <- kmeans_result$cluster
+
+```
+
+
+```{r}
+# PASO 4. Convertir a un objeto sf para poder graficar en un mapa
+inventario_sf <- st_as_sf(inventario, coords = c('Longitud', 'Latitud'), crs = 4326)
+
+```
+
+
+```{r}
+# PASO 5. Obtener el mapa de Argentina
+argentina_map <- st_as_sf(maps::map('world', 'argentina', plot = FALSE, fill = TRUE))
+
+```
+
+
+```{r}
+# PASO 6. Graficar un mapa con los clusters (MApa sencillo)
+ggplot() +
+  geom_sf(data = argentina_map, fill = 'lightgrey', color = 'white') +
+  geom_sf(data = inventario_sf, aes(color = factor(cluster)), size = 2, alpha = 0.7) +
+  labs(color = 'Cluster') +
+  theme_minimal() +
+  ggtitle('Clusters de INVENTARIO_EJERCICIO6 en Argentina')
+
+```
+
+
+```{r}
+# PASO 7. Crear un mapa interactivo con leaflet
+
+mapa <- leaflet(inventario) %>%
+  addTiles() %>%  
+  addCircleMarkers(lng = ~Longitud, lat = ~Latitud, popup = ~as.character(cluster), color = ~factor(cluster), clusterOptions = markerClusterOptions()) %>%
+  addProviderTiles(providers$CartoDB.Positron)
+
+
+```
+
+```{r}
+## PASO 8. Creacion de un Mapa Georeferenciado
+
+activos <- data.frame(
+  lat = puntos$Latitud,
+  long = puntos$Longitud,
+  dispo = puntos$Disponibilidad,
+  planta = puntos$Planta,
+  ubicacion = puntos$Ubicacion.Geografica,
+    stringsAsFactors = FALSE
+)
+
+```
+
+
+```{r}
+## PASO 9. convierte la codificación de un vector de caracteres de una codificación a otra. 
+
+# Es una función que convierte la codificación de un vector de caracteres de una codificación a otra. En este caso, se está utilizando para asegurar que las columnas planta, ubicacion y dispo del dataframe activos estén en codificación UTF-8.
+activos$planta <- iconv(activos$planta, to = "UTF-8")
+
+activos$ubicacion <- iconv(activos$ubicacion, to = "UTF-8")
+activos$dispo <- iconv(activos$dispo, to = "UTF-8")
+
+
+leaflet(data = activos[1:299, ]) %>%
+  addTiles() %>%
+  addMarkers(
+    lng = ~long, 
+    lat = ~lat, 
+    popup = ~as.character(dispo), 
+    label = ~paste(as.character(planta), as.character(ubicacion), sep = " - ")
+  )
+
+
+```
+
