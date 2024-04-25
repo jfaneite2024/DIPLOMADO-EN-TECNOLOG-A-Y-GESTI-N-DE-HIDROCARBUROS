@@ -1,0 +1,49 @@
+---
+title: "CV JUAN FANEITE"
+author: "JUAN FANEITE"
+date: "2024-04-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Curriculum Vitae
+
+
+### Datos Personales
+![Juan Faneite Analista de Datos](fotojfb.jpg)
+
+
+
+### Formación
+Universidad Nacional Experimental Politécnica de la Fuerza Armada. Venezuela 2014.
+MsC en Tecnologías de la Información
+
+Instituto Universitario Politécnico Santiago Mariño. 2010.
+Ingeniero de Sistemas.
+
+Instituto Universitario de Tecnologia Juan Pablo Perez Alfonzo. 1999
+Técnico Superior en Producción Industrial
+
+Instituto Universitario de Tecnologia Antonio José de Sucre
+Técnico Superior en Informática
+
+### Experiencia Laboral
+
+Empresa| Cargo| Desde |Hasta |
+|:-------|:------|:-----------|:---------:|
+| KPMG | Consultor | 2023 | Actual |
+| Obra Social Luis Pasteur| Analista | 2021 | 2023 |
+|Desdelsur C.A | Asistente de Sistemas / Administración IT | 2021 | 2021
+|Impronta IT| Administrador de Infraestructura IT | 2019 | 2021
+
+
+### Contacto
+
+<ing.juan.faneite@gmail.com>
+Cel ***1124743526***
+
+
+
