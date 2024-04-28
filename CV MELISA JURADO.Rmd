@@ -1,0 +1,44 @@
+---
+title: "CV MELISA JURADO"
+author: "JURADO MELISA"
+date: "2024-04-28"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Curriculum Vitae
+
+
+### Datos Personales
+![Melisa Jurado MAGISTER EN GESTION DE OPERACIONES]
+
+
+
+### Formación
+Universidad Austral . Argentina 2024.
+Magister en Gestion de Operaciones 
+
+Instituto Tecnologico de Bs As. 2024.
+Especializacion en Reservorios No convencionales.
+
+Universidad Nacional de Jujuy 
+Ingeniera Quimica
+
+### Experiencia Laboral
+
+Empresa| Cargo| Desde |Hasta |
+|:-------|:------|:-----------|:---------:|
+| YPF| Company Woman | 2019 | Actual |
+| Talesum | supervisor | 2018 | 2019 |
+|Sales de Jujuy| Pasante Proyecto | 2017 | 2018 |
+
+
+### Contacto
+
+<karinabelen3824@gmail.com>
+Cel ***03884070170***
